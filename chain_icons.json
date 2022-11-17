@@ -311,14 +311,6 @@
     "format": "png"
   }]
 }, {
-  "name": "PSC",
-  "icons": [{
-    "url": "ipfs://QmSoew6CY5Eo7E73oeEjrcRa7ZTEhP7WxBLRrHgHFLy5MK",
-    "width": 726,
-    "height": 726,
-    "format": "png"
-  }]
-}, {
   "name": "agora",
   "icons": [{
     "url": "ipfs://QmW3CT4SHmso5dRJdsjR8GL1qmt79HkdAebCn2uNaWXFYh",
@@ -611,6 +603,14 @@
     "width": 524,
     "height": 524,
     "format": "svg"
+  }]
+}, {
+  "name": "PSC",
+  "icons": [{
+    "url": "ipfs://QmSoew6CY5Eo7E73oeEjrcRa7ZTEhP7WxBLRrHgHFLy5MK",
+    "width": 726,
+    "height": 726,
+    "format": "png"
   }]
 }, {
   "name": "polis",
