@@ -234,8 +234,8 @@
   "name": "wagmi",
   "icons": [{
     "url": "ipfs://QmNoyUXxnak8B3xgFxErkVfyVEPJUMHBzq7qJcYzkUrPR4",
-    "width": 500,
-    "height": 500,
+    "width": 1920,
+    "height": 1920,
     "format": "png"
   }]
 }, {
@@ -378,6 +378,8 @@
   "name": "kava",
   "icons": [{
     "url": "ipfs://QmdpRTk6oL1HRW9xC6cAc4Rnf9gs6zgdAcr4Z3HcLztusm",
+    "width": 1186,
+    "height": 360,
     "format": "svg"
   }]
 }, {
@@ -600,8 +602,8 @@
   "name": "ivar",
   "icons": [{
     "url": "ipfs://QmV8UmSwqGF2fxrqVEBTHbkyZueahqyYtkfH2RBF5pNysM",
-    "width": 524,
-    "height": 524,
+    "width": 519,
+    "height": 519,
     "format": "svg"
   }]
 }, {
@@ -664,8 +666,8 @@
   "name": "techpay",
   "icons": [{
     "url": "ipfs://QmQyTyJUnhD1dca35Vyj96pm3v3Xyw8xbG9m8HXHw3k2zR",
-    "width": 584,
-    "height": 707,
+    "width": 578,
+    "height": 701,
     "format": "svg"
   }]
 }, {
@@ -707,14 +709,6 @@
     "width": 1043,
     "height": 1079,
     "format": "png"
-  }]
-}, {
-  "name": "palm",
-  "icons": [{
-    "url": "ipfs://QmX6h8xm4em77oNpFRtmAqrZ734MH4VGCC68dEKHUfdfPs",
-    "width": 1080,
-    "height": 1080,
-    "format": "svg"
   }]
 }, {
   "name": "SUR",
@@ -872,8 +866,8 @@
   "name": "rabbit",
   "icons": [{
     "url": "ipfs://QmdfbjjF3ZzN2jTkH9REgrA8jDS6A6c21n7rbWSVbSnvQc",
-    "width": 313,
-    "height": 253,
+    "width": 310,
+    "height": 251,
     "format": "svg"
   }]
 }, {
@@ -1078,8 +1072,8 @@
   "name": "kek",
   "icons": [{
     "url": "ipfs://QmNzwHAmaaQyuvKudrzGkrTT2GMshcmCmJ9FH8gG2mNJtM",
-    "width": 300,
-    "height": 300,
+    "width": 401,
+    "height": 401,
     "format": "svg"
   }]
 }, {
@@ -1171,14 +1165,6 @@
     "format": "png"
   }]
 }, {
-  "name": "posichain",
-  "icons": [{
-    "url": "ipfs://QmXqprM1TPafQFLirQ7dMPMgou1hoUGuCvHYSWU9g8ocv8",
-    "width": 24,
-    "height": 24,
-    "format": "svg"
-  }]
-}, {
   "name": "tresleches",
   "icons": [{
     "url": "ipfs://QmS33ypsZ1Hx5LMMACaJaxePy9QNYMwu4D12niobExLK74",
@@ -1191,8 +1177,8 @@
   "icons": [{
     "url": "ipfs://QmS8zEetTb6pwdNpVjv5bz55BXiSMGP9BjTJmNcjcUT91t",
     "format": "svg",
-    "width": 412,
-    "height": 412
+    "width": 408,
+    "height": 408
   }]
 }, {
   "name": "sherpax",
@@ -1214,8 +1200,8 @@
   "name": "jfin",
   "icons": [{
     "url": "ipfs://bafkreie4uhrsk3vxxnpjm7tidupfxgib5ahnwqopf6elykdatshuo6yb4m",
-    "width": 781,
-    "height": 781,
+    "width": 773,
+    "height": 773,
     "format": "svg"
   }]
 }, {
