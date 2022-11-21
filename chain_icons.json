@@ -679,6 +679,14 @@
     "format": "png"
   }]
 }, {
+  "name": "meer",
+  "icons": [{
+    "url": "ipfs://QmWSbMuCwQzhBB6GRLYqZ87n5cnpzpYCehCAMMQmUXj4mm",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "oychain",
   "icons": [{
     "url": "ipfs://QmXW5T2MaGHznXUmQEXoyJjcdmX7dhLbj5fnqvZZKqeKzA",
@@ -716,6 +724,14 @@
     "url": "ipfs://QmbUcDQHCvheYQrWk9WFJRMW5fTJQmtZqkoGUed4bhCM7T",
     "width": 3000,
     "height": 3000,
+    "format": "png"
+  }]
+}, {
+  "name": "calypso",
+  "icons": [{
+    "url": "ipfs://bafybeigyayzxvt7vosat4rtrbmhhnldgx57w2pfbutuniax7h6kswzi42m",
+    "width": 1637,
+    "height": 1636,
     "format": "png"
   }]
 }, {
