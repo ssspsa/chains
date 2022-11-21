@@ -298,18 +298,18 @@
   "faucets": [],
   "infoURL": "https://elaeth.io/"
 }, {
-  "name": "Dithereum Mainnet",
+  "name": "KardiaChain Mainnet",
   "chainId": 24,
-  "shortName": "dthmainnet",
-  "networkId": 24,
+  "shortName": "kardiachain",
+  "networkId": 0,
   "nativeCurrency": {
-    "name": "Dither",
-    "symbol": "DTH",
+    "name": "KardiaChain",
+    "symbol": "KAI",
     "decimals": 18
   },
-  "rpc": ["https://node-mainnet.dithereum.io"],
-  "faucets": ["https://faucet.dithereum.org"],
-  "infoURL": "https://dithereum.org"
+  "rpc": ["https://rpc.kardiachain.io"],
+  "faucets": [],
+  "infoURL": "https://kardiachain.io"
 }, {
   "name": "Cronos Mainnet Beta",
   "chainId": 25,
@@ -593,7 +593,7 @@
     "symbol": "ETMP",
     "decimals": 18
   },
-  "rpc": ["https://rpc.etm.network"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://etm.network"
 }, {
@@ -1351,6 +1351,32 @@
   "faucets": ["https://buy.dehvo.com"],
   "infoURL": "https://dehvo.com"
 }, {
+  "name": "DeBank Testnet",
+  "chainId": 115,
+  "shortName": "debank-testnet",
+  "networkId": 115,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": ""
+}, {
+  "name": "DeBank Mainnet",
+  "chainId": 116,
+  "shortName": "debank-mainnet",
+  "networkId": 116,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": ""
+}, {
   "name": "Fuse Mainnet",
   "chainId": 122,
   "shortName": "fuse",
@@ -1675,6 +1701,19 @@
   "rpc": ["http://13.57.207.168:3435", "https://app.freighttrust.net/ftn/${API_KEY}"],
   "faucets": ["http://faucet.freight.sh"],
   "infoURL": "https://freighttrust.com"
+}, {
+  "name": "MAP Makalu",
+  "chainId": 212,
+  "shortName": "makalu",
+  "networkId": 212,
+  "nativeCurrency": {
+    "name": "Makalu MAP",
+    "symbol": "MAP",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.maplabs.io"],
+  "faucets": ["https://faucet.maplabs.io"],
+  "infoURL": "https://maplabs.io"
 }, {
   "name": "SoterOne Mainnet old",
   "chainId": 218,
@@ -2452,7 +2491,7 @@
     "symbol": "MEER",
     "decimals": 18
   },
-  "rpc": ["https://evm-dataseed3.meerscan.io", "https://evm-dataseed1.meerscan.com", "https://evm-dataseed.meerscan.com"],
+  "rpc": ["https://evm-dataseed1.meerscan.io", "https://evm-dataseed2.meerscan.io", "https://evm-dataseed.meerscan.com", "https://evm-dataseed1.meerscan.com"],
   "faucets": [],
   "infoURL": "https://github.com/Qitmeer"
 }, {
@@ -2881,7 +2920,7 @@
     "symbol": "BRO",
     "decimals": 18
   },
-  "rpc": ["https://evm.bronos.org"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://bronos.org"
 }, {
@@ -2907,7 +2946,7 @@
     "symbol": "mc",
     "decimals": 18
   },
-  "rpc": ["https://gateway.moac.io/mainnet"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://moac.io"
 }, {
@@ -3691,6 +3730,19 @@
   "faucets": [],
   "infoURL": "https://ecoball.org"
 }, {
+  "name": "Exosama Network",
+  "chainId": 2109,
+  "shortName": "exn",
+  "networkId": 2109,
+  "nativeCurrency": {
+    "name": "Sama Token",
+    "symbol": "SAMA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.exosama.com", "wss://rpc.exosama.com"],
+  "faucets": [],
+  "infoURL": "https://moonsama.com"
+}, {
   "name": "BOSagora Mainnet",
   "chainId": 2151,
   "shortName": "boa",
@@ -4250,6 +4302,19 @@
   "faucets": [],
   "infoURL": "https://humanode.io"
 }, {
+  "name": "Firechain Mainnet",
+  "chainId": 5290,
+  "shortName": "fire",
+  "networkId": 5290,
+  "nativeCurrency": {
+    "name": "Firechain",
+    "symbol": "FIRE",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.rpc1.thefirechain.com"],
+  "faucets": [],
+  "infoURL": "https://thefirechain.com"
+}, {
   "name": "Uzmi Network Mainnet",
   "chainId": 5315,
   "shortName": "UZMI",
@@ -4545,7 +4610,7 @@
     "symbol": "MEER-T",
     "decimals": 18
   },
-  "rpc": ["https://explorer.qitmeer.io/rpc"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://github.com/Qitmeer"
 }, {
@@ -4714,7 +4779,7 @@
     "symbol": "EVMOS",
     "decimals": 18
   },
-  "rpc": ["https://eth.bd.evmos.org:8545"],
+  "rpc": ["https://eth.bd.evmos.org:8545", "https://evmos-evm.publicnode.com"],
   "faucets": [],
   "infoURL": "https://evmos.org"
 }, {
@@ -4743,6 +4808,19 @@
   "rpc": ["https://genesis-gn.com", "wss://genesis-gn.com"],
   "faucets": [],
   "infoURL": "https://genesis-gn.com"
+}, {
+  "name": "Rinia Testnet",
+  "chainId": 9170,
+  "shortName": "tfire",
+  "networkId": 9170,
+  "nativeCurrency": {
+    "name": "Firechain",
+    "symbol": "FIRE",
+    "decimals": 18
+  },
+  "rpc": ["https://rinia.rpc1.thefirechain.com"],
+  "faucets": ["https://faucet.thefirechain.com"],
+  "infoURL": "https://thefirechain.com"
 }, {
   "name": "Rangers Protocol Testnet Robin",
   "chainId": 9527,
@@ -5000,7 +5078,7 @@
     "symbol": "SHYFTT",
     "decimals": 18
   },
-  "rpc": ["https://rpc.testnet.shyft.network/"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://shyft.network"
 }, {
@@ -5143,7 +5221,7 @@
     "symbol": "POM",
     "decimals": 18
   },
-  "rpc": ["https://mainnet-rpc.memescan.io"],
+  "rpc": ["https://mainnet-rpc.memescan.io", "https://mainnet-rpc2.memescan.io", "https://mainnet-rpc3.memescan.io", "https://mainnet-rpc4.memescan.io"],
   "faucets": [],
   "infoURL": "https://proofofmemes.org"
 }, {
@@ -5212,6 +5290,19 @@
   "faucets": [],
   "infoURL": "https://hupayx.io"
 }, {
+  "name": "MAP Mainnet",
+  "chainId": 22776,
+  "shortName": "map",
+  "networkId": 22776,
+  "nativeCurrency": {
+    "name": "MAP",
+    "symbol": "MAP",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.maplabs.io"],
+  "faucets": [],
+  "infoURL": "https://maplabs.io"
+}, {
   "name": "Opside Testnet",
   "chainId": 23118,
   "shortName": "opside",
@@ -5234,7 +5325,7 @@
     "symbol": "WEB",
     "decimals": 18
   },
-  "rpc": ["https://node1.webchain.network"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://webchain.network"
 }, {
@@ -6889,7 +6980,7 @@
   "faucets": [],
   "infoURL": "https://plian.org/"
 }, {
-  "name": "PlatON Dev Testnet",
+  "name": "PlatON Dev Testnet Deprecated",
   "chainId": 2203181,
   "shortName": "platondev",
   "networkId": 1,
@@ -7327,7 +7418,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["https://betanet.aurora.dev/"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://aurora.dev"
 }, {

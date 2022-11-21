@@ -183,6 +183,14 @@
     "format": "png"
   }]
 }, {
+  "name": "exn",
+  "icons": [{
+    "url": "ipfs://QmaQxfwpXYTomUd24PMx5tKjosupXcm99z1jL1XLq9LWBS",
+    "width": 468,
+    "height": 468,
+    "format": "png"
+  }]
+}, {
   "name": "lambda",
   "icons": [{
     "url": "ipfs://QmWsoME6LCghQTpGYf7EnUojaDdYo7kfkWVjE6VvNtkjwy",
@@ -351,11 +359,27 @@
     "format": "png"
   }]
 }, {
+  "name": "firechain",
+  "icons": [{
+    "url": "ipfs://QmYjuztyURb3Fc6ZTLgCbwQa64CcVoigF5j9cafzuSbqgf",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "subscan",
   "icons": [{
     "url": "ipfs://Qma2GfW5nQHuA7nGqdEfwaXPL63G9oTwRTQKaGTfjNtM2W",
     "width": 400,
     "height": 400,
+    "format": "png"
+  }]
+}, {
+  "name": "rinia",
+  "icons": [{
+    "url": "ipfs://QmRnnw2gtbU9TWJMLJ6tks7SN6HQV5rRugeoyN6csTYHt1",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -437,6 +461,14 @@
     "width": 2600,
     "height": 2600,
     "format": "png"
+  }]
+}, {
+  "name": "kardiachain",
+  "icons": [{
+    "url": "ipfs://QmXoHaZXJevc59GuzEgBhwRSH6kio1agMRvL8bD93pARRV",
+    "format": "png",
+    "width": 297,
+    "height": 297
   }]
 }, {
   "name": "kaiba",
@@ -546,8 +578,8 @@
   "name": "polyjuice",
   "icons": [{
     "url": "ipfs://QmZ5gFWUxLFqqT3DkefYfRsVksMwMTc5VvBjkbHpeFMsNe",
-    "width": 1000,
-    "height": 1628,
+    "width": 1001,
+    "height": 1629,
     "format": "png"
   }]
 }, {
@@ -823,6 +855,14 @@
     "format": "png"
   }]
 }, {
+  "name": "map",
+  "icons": [{
+    "url": "ipfs://QmcLdQ8gM4iHv3CCKA9HuxmzTxY4WhjWtepUVCc3dpzKxD",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "platon",
   "icons": [{
     "url": "ipfs://QmT7PSXBiVBma6E15hNkivmstqLu3JSnG1jXN5pTmcCGRC",
@@ -1018,6 +1058,8 @@
   "name": "cennz",
   "icons": [{
     "url": "ipfs://QmWhNm7tTi6SYbiumULDRk956hxgqaZSX77vcxBNn8fvnw",
+    "width": 112,
+    "height": 112,
     "format": "svg"
   }]
 }, {
